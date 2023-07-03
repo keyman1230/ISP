@@ -13,7 +13,7 @@ Input : 10bit A/D RGB Bayer Format
 
 -. White Balance 
 
--. Color Interpolation(R, G, B) 
+-. Color Interpolation(R, G, B, Demosaicing) 
 
 -. Color correction 
 
