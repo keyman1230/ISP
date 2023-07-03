@@ -2,6 +2,7 @@
 ISP Pipeline Study 
 
 Contents
+
 Input : 10bit A/D RGB Bayer Format 
 
 -. DPC (Defect Pixel Compensation) 
