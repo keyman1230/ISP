@@ -13,15 +13,17 @@ Input : 10bit A/D RGB Bayer Format
 
 -. White Balance 
 
--. Color Interpolation(R, G, B) 
+-. Color Interpolation(R, G, B, Demosaicing) 
 
 -. Color correction 
 
 -. Gamma correction (10bit > 8bit 변환) 
 
+-. Color space conversion(YUV)
+
 -. Edge enhancement 
 
-YUV?
+-. Compression (JPG?)
 
 
 Reference
