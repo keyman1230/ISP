@@ -19,9 +19,11 @@ Input : 10bit A/D RGB Bayer Format
 
 -. Gamma correction (10bit > 8bit 변환) 
 
+-. Color space conversion(YUV)
+
 -. Edge enhancement 
 
-YUV?
+-. Compression (JPG?)
 
 
 Reference
